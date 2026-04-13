@@ -15,7 +15,7 @@
                  ENJOY USING THIS TOOL....
                           
 
-This is a simple python script that scrap words from the web of any target url.
+A python script that scrap possible passwords text from the web of any target url.
 
 #usage:
 
